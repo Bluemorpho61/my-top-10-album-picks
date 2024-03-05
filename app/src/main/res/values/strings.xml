@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">My Top 10 Album Choices</string>
+
+    <string name="album_name">Album Title</string>
+    <string name="album_desc">Album Description</string>
+    <string name="about">about</string>
+    <string-array name="album_title">
+        <item>Post</item>
+        <item>Parklife</item>
+        <item>Isn\'t Anything</item>
+        <item>Urban Hymns</item>
+        <item>Screamadelica</item>
+        <item>Definitely Maybe </item>
+        <item>Souvlaki</item>
+        <item>The Bends</item>
+        <item>Going Blank Again</item>
+        <item>Ferment</item>
+    </string-array>
+    <string-array name="artist">
+        <item>Bjork</item>
+        <item>Blur</item>
+        <item>My Bloody Valentine</item>
+        <item>The Verve</item>
+        <item>Primal Scream</item>
+        <item>Oasis</item>
+        <item>Slowdive</item>
+        <item>Radiohead</item>
+        <item>Ride</item>
+        <item>Catherine Wheel</item>
+    </string-array>
+    <string-array name="release_date">
+        <item>07 June 1995</item>
+        <item>25 April 1994</item>
+        <item>21 November 1988</item>
+        <item>29 September 1997</item>
+        <item>23 September 1991</item>
+        <item>29 August 1994</item>
+        <item>17 May 1993</item>
+        <item>13 March 1995</item>
+        <item>9 March 1992</item>
+        <item>17 February 1992</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Post is the second studio album by Icelandic singer Björk It was released on 7 June 1995 by One Little Indian Records. Continuing the style developed on her first album Debut (1993), Björk conceived of Post as a bolder and more extroverted set of songs than its predecessor, featuring an eclectic mixture of electronic and dance styles such as techno, trip hop, IDM, and house, but also ambient, jazz, industrial, and experimental music.</item>
+        <item>Parklife is the third studio album by the English rock band Blur, released on 25 April 1994 on Food Records. Certified four times platinum in the United Kingdom,[5] in the year following its release the album came to define the emerging Britpop scene, along with the album Definitely Maybe by future rivals Oasis. Britpop in turn would form the backbone of the broader Cool Britannia movement. </item>
+        <item>isn\\\'t Anything is the debut studio album by Irish-English rock band My Bloody Valentine, released on 21 November 1988 by Creation Records. Its innovative guitar and production techniques consolidated the experimentation of the band\'s preceding EPs[6] and would make the album a pioneering work of the subgenre known as shoegazing.[7][8][9] Upon its release, the album received rave critical reviews and reached #1 on the UK Independent Albums Chart. </item>
+        <item>Urban Hymns is the third studio album by English alternative rock band the Verve, released on 29 September 1997 on Hut Records. It earned nearly unanimous critical praise upon its release, and went on to become the band\'s best-selling release and one of the biggest selling albums of the year. As of 2019, Urban Hymns is ranked the 19th best-selling album in UK chart history</item>
+        <item>Screamadelica is the third studio album by Scottish rock band Primal Scream. It was first released on 23 September 1991 in the United Kingdom by Creation Records and on 8 October 1991 in the United States by Sire Records. featuring Manchester-born singer Denise Johnson, was the band\'s first album to be a commercial success, peaking at number eight on the UK Albums Chart upon its release.[11] It received wide praise from critics, and has been frequently named one of the best albums of the 1990s in various polls. It won the first Mercury Music Prize in 1992 </item>
+        <item>Definitely Maybe is the debut studio album by English rock band Oasis, released by Creation Records on 29 August 1994.Definitely Maybe garnered widespread critical acclaim and helped to spur a revitalization in British pop/rock music in the 1990s. It was embraced by critics for its optimistic themes and rejection of the negative outlook of much of the grunge music of the time, and is regarded as a seminal entry of the Britpop scene, having since appeared in many publications\' lists of the greatest albums of all time.</item>
+        <item>Souvlaki is the second studio album by the English rock band Slowdive. It was recorded in 1992, and released on 1 June 1993 by Creation Records.On its initial release, Souvlaki peaked at number 51 on the UK Albums Chart and was greeted with tepid reviews from critics. It has since received retrospective critical acclaim and has been hailed as a classic of the shoegaze genre. </item>
+        <item>The Bends is the second studio album by the English rock band Radiohead, released on 13 March 1995 by Parlophone. It was produced by John Leckie, with extra production by Radiohead, Nigel Godrich and Jim Warren. The Bends combines guitar songs and ballads, with more restrained arrangements and cryptic lyrics than Radiohead\'s debut album, Pablo Honey (1993).</item>
+        <item>Going Blank Again is the second studio album by English rock band Ride, released on 9 March 1992 on Creation Records.[1] It was produced by Alan Moulder, and peaked at No. 5 in the UK Albums Chart.[4] In October 2009 the album was certified gold by the British Phonographic Industry for sales of over 100,000 units. </item>
+        <item>Ferment is the debut studio album by English alternative rock band Catherine Wheel, released 17 February 1992 by Fontana Records. Produced by Tim Friese-Greene and John Lee, the album combined aspects of shoegazing, alternative rock and neo psychedelia. </item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/bjork</item>
+        <item>@drawable/blur</item>
+        <item>@drawable/mbv</item>
+        <item>@drawable/verve</item>
+        <item>@drawable/primalscr</item>
+        <item>@drawable/oasis</item>
+        <item>@drawable/slowdive</item>
+        <item>@drawable/radiohead</item>
+        <item>@drawable/ride</item>
+        <item>@drawable/ferment</item>
+        <item>@drawable/about</item>
+    </integer-array>
+</resources>
